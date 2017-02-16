@@ -108,7 +108,7 @@ export default class LineClamp extends Component {
     }
 
     if (startPos === maxTextLength) {
-      return text
+      return
     } else {
       this.setState({ trimmedText: text.substr(0, startPos) + truncateText })
       return
