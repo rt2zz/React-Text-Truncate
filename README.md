@@ -1,6 +1,6 @@
 # React Line Clamp [![npm version](https://badge.fury.io/js/react-text-truncate.svg)](https://badge.fury.io/js/react-text-truncate)
 
-**NOTE** this is a fork of the excellent https://github.com/ShinyChang/react-text-truncate. pleaes use that project unless you specifically need a) no onresize events b) css support in webkit.
+**NOTE** this is a fork of the excellent https://github.com/ShinyChang/react-text-truncate. please use that project unless you specifically need a) no onresize events b) css support in webkit.
 
 ## Install
 
